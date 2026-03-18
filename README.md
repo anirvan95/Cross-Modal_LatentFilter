@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Code Execution Steps (a_**.py ➡️ f_**.py)
+## 🚀 Code Execution Steps (a_**.py ➡️ e_**.py)
 
 ```bash
 # Step 1: Preprocess dataset (cleans and downsample)
@@ -121,7 +121,7 @@ python e_eval_distances.py
 # Step 8: Generate UMAP visualizations
 python e_eval_UMAP.py
 
-# Step 9: Generate result plots
+Result plots corresponding to the manuscript, results matrix present in the repository and can be validated in isolation
 python f_plot_result_I.py
 python f_plot_result_II.py
 python f_plot_result_III.py

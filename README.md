@@ -121,7 +121,7 @@ python e_eval_distances.py
 # Step 8: Generate UMAP visualizations
 python e_eval_UMAP.py
 
-Result plots corresponding to the manuscript, results matrix present in the repository and can be validated in isolation
+# Result plots corresponding to the manuscript, results matrix present in the repository and can be validated in isolation
 python f_plot_result_I.py
 python f_plot_result_II.py
 python f_plot_result_III.py
